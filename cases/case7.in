@@ -1,0 +1,31 @@
+<div
+     w="50"
+     h="10"
+     direction="row"
+     justify-content="center"
+     align-items="space-evenly"
+     >
+    <p>ELEMENT</p>
+    <div
+         w="20"
+         direction="column"
+         justify-content="start"
+         >
+        <p>ELEMENT</p>
+        <p>ELEMENT</p>
+    </div>
+    <div 
+         w="30"
+         direction="column"
+         justify-content="end"
+         >
+        <p>ELEMENT</p>
+        <p>ELEMENT</p>
+        <p>ELEMENT</p>
+    </div>
+    <img
+         src="@@@@@@"
+         width="3"
+         >
+	</img>
+</div>

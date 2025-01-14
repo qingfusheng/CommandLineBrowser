@@ -1,0 +1,16 @@
+<div w="50" h="1" direction="column" justify-content="end">
+        <p em>Gmail  </p>
+        <p em>Images</p>
+    </div>
+<div w="50" h="9" direction="row" align-items="center" justify-content="center">
+    <img src=" ___                     __ |  __  __   __   __  |  |__ |___| |__| |__| |__| |_ |__                   _|        " width="28"></img>
+    <div w="20" h="1" direction="column" justify-content="center">
+        <p>[</p>
+        <p u>Q_________________</p>
+        <p>]</p>
+    </div>
+    <div w="50" h="1" direction="column" justify-content="space-evenly">
+        <p u color="blue">GOOGLE SEARCH</p>
+        <p u color="red">IM FEELING LUCKY</p>
+    </div>
+</div>

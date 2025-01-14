@@ -1,0 +1,12 @@
+<div
+     w="10"
+     h="5"
+     direction="row"
+     align-items="center"
+     justify-content="end"
+     i u
+     >
+        <p>Upper</p>
+        <p>Middle</p>
+        <p>Lower</p>
+</div>

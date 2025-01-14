@@ -1,0 +1,39 @@
+<div w="50" direction="column">
+    <div w="5" h="1"></div>
+    <h em>C-PL dotOJ</h>
+    <div w="20" h="1"></div>
+    <p u>Home</p>
+    <div w="2" h="1"></div>
+    <p u>Login</p>
+</div>
+<div w="50" direction="column">
+    <div w="5" h="1"></div>
+    <div w="20" h="9">
+        <h u>Bulletins</h>
+        <div>
+            <p>Solution of 2nd exam</p>
+            <p i>1.feishu.t1</p>
+            <p i>2.feishu.t2</p>
+            <p i>3.feishu.t3</p>
+        </div>
+        <div>
+            <p>Check your score</p>
+            <p i color="red">1.Check plagiarism</p>
+            <p i>2.link</p>
+        </div>
+    </div>
+    <div w="8" h="8"></div>
+    <div w="15" h="8">
+        <h u>Homework</h>
+        <div w="15" h="3">
+            <p em>2024-9-pointers</p>
+            <p color="green">    Enter</p>
+            <p i>  2024-12-07</p>
+        </div>
+        <div w="15" h="3">
+            <p em> 2024-10-LList </p>
+            <p color="green">    Enter</p>
+            <p i>  2024-12-20</p>
+        </div>
+    </div>
+</div>
